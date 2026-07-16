@@ -15,7 +15,7 @@
 <p align="center" dir="auto">
 <a href="https://github.com/aliasad211/Portfolio/raw/main/public/MAliAsad_CV.pdf" rel="nofollow">
  <img src="https://img.shields.io/badge/My%20CV-00a6fb?style=flat" style="height: 35px; max-width: 100%;"></a> &nbsp;
-<a href="https://github.com/aliasad211/Portfolio" rel="nofollow">
+<a href="https://aliasad-portfolio.vercel.app/" rel="nofollow">
  <img src="https://img.shields.io/badge/My%20Portfolio-00a6fb?style=flat" style="height: 35px; max-width: 100%;"></a>
 </p>
 
