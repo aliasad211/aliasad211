@@ -21,7 +21,7 @@
 
 ## 💫 About Me 
 
-- 🧑‍💻 **Full-Stack Web & Mobile Developer** | Graduate in **Software Engineering** from **University of Mianwali**
+- 🧑‍💻 **Full-Stack Web & Mobile Developer** | Graduate in **Software Engineering**
 - ⚙️ Specialized in **MERN Stack** (`MongoDB`, `Express.js`, `React`, `Node.js`), **Next.js**, **React Native**, and **RESTful APIs**
 - 🤖 Experienced in **AI Integration** (built *HerbLens* with AI capabilities) and designing modern responsive interfaces
 - 💼 Currently working as a **Full Stack Developer** at **Marifahsol** (working on commercial apps like CareNClean & Swiss411)
